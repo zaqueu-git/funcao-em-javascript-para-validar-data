@@ -1,1 +1,4 @@
-# funcao-em-javascript-para-validar-data
+# Função em JavaScript para validar data
+```
+Deve ser no formato YYYY-MM-DD
+```
